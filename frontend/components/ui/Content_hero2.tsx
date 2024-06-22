@@ -6,7 +6,7 @@ const ContentHero2 = () => {
   return (
     <div
       style={{
-        margin: "1vw",
+        margin: "2vw",
       }}
     >
       <div style={{ display: "flex", flexDirection: "row" }}>
@@ -89,24 +89,24 @@ const ContentHero2 = () => {
               >
                 <div
                   style={{
-                    width: "3vw", // Set width based on viewport width
-                    height: "6vh", // Set height based on viewport height
+                    width: "3vw",
+                    height: "6vh",
                     backgroundColor: "gray",
                     marginRight: "1vw",
                   }}
                 />
                 <div
                   style={{
-                    width: "3vw", // Set width based on viewport width
-                    height: "6vh", // Set height based on viewport height
+                    width: "3vw",
+                    height: "6vh",
                     backgroundColor: "gray",
                     marginRight: "1vw",
                   }}
                 />
                 <div
                   style={{
-                    width: "3vw", // Set width based on viewport width
-                    height: "6vh", // Set height based on viewport height
+                    width: "3vw",
+                    height: "6vh",
                     backgroundColor: "gray",
                     marginRight: "1vw",
                   }}
@@ -115,16 +115,16 @@ const ContentHero2 = () => {
               <div style={{ display: "flex", flexDirection: "row" }}>
                 <div
                   style={{
-                    width: "3vw", // Set width based on viewport width
-                    height: "6vh", // Set height based on viewport height
+                    width: "3vw",
+                    height: "6vh",
                     backgroundColor: "gray",
                     marginRight: "1vw",
                   }}
                 />
                 <div
                   style={{
-                    width: "3vw", // Set width based on viewport width
-                    height: "6vh", // Set height based on viewport height
+                    width: "3vw",
+                    height: "6vh",
                     backgroundColor: "gray",
                     marginRight: "1vw",
                   }}
